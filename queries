@@ -1,0 +1,8 @@
+http://localhost:8080/employee/transaction   POST
+{
+    "ID" : 2,
+    "FromAccountNo" : 322 ,
+    "ToAccount" : 324 ,
+    "Amount" : 100
+}
+
